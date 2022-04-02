@@ -131,3 +131,5 @@ soup15 = BeautifulSoup(html15.content, 'html.parser')
 price15 = soup15.find('span', class_='ProductMeta__Price Price Price--highlight Text--subdued u-h4').text
 price15 = price15.replace(' ','')
 print(f'Atualmente, o preço da unidade da máscara de pano Insider, no site www.insiderstore, é {price15}'+',00')
+
+input()
