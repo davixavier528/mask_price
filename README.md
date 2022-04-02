@@ -9,7 +9,7 @@ A ferramenta se baseia em estratégia de web scrapping para conseguir preços at
 # Requisitos
 * Python 3.7.X
 * Biblioteca BeautifulSoup
-* Vá até o diretório onde o arquivo `requirements.txt` se
+* Vá até o diretório onde o arquivo `requirements.txt` se encontra
 * Abra a interface da linha de comando e rode o seguinte:
 * `pip install -r requirements.txt`
 * Autorize as instalações
