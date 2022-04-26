@@ -1,8 +1,6 @@
 from bs4 import BeautifulSoup # importar módulo BeautifulSoup para manipular dados do HTML
 import requests # importar módulo requests para acessar HTML
 
-import csv # importar módulo csv para salvar e/ou manipular arquivos .csv
-
 # o código pode ser modificado para a inserção de outras urls
 # entretanto, atente-se a dinâmica do site pois em certas ocasiões a estrutura HTML não será interpretada corretamente
 
